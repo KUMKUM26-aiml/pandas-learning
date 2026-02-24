@@ -29,6 +29,14 @@ sorting and  finding Missing  values in dataframe
 -detect missing values
 -filling missing values
 
+## Pandas Learning - day 4
+## Topic 
+GroupBy and Aggregation
+
+## What I Learned
+- Grouping data using groupby()
+- Calculating mean, max, count
+
 
 
 
