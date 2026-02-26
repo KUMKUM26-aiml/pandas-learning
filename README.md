@@ -40,4 +40,22 @@ GroupBy and Aggregation
 
 
 
+## Day 5-DataFrame Merge and Join Operations
+- pd.merge()
+- inner join
+- left join
+- right join
+- outer join
+
+
+## Day 6 – CSV Data Analysis
+
+- Loaded data from CSV file
+- Cleaned missing values
+- Calculated:
+  - total students
+  - average marks
+  - highest & lowest
+- Grouped data by city
+- Saved cleaned CSV
 
