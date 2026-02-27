@@ -59,3 +59,13 @@ GroupBy and Aggregation
 - Grouped data by city
 - Saved cleaned CSV
 
+## Day 7-Data visualization 
+- Loaded CSV file
+- Grouped data by city
+# Plotted:
+- Average marks per city
+- Student count per city
+- Marks distribution
+- Line chart of marks
+- Used Pandas and Matplotlib
+
