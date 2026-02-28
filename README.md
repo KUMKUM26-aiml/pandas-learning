@@ -69,3 +69,17 @@ GroupBy and Aggregation
 - Line chart of marks
 - Used Pandas and Matplotlib
 
+## Day 8 - Advanced Analysis with Functions
+
+Topics:
+- Data cleaning using mean
+- GroupBy with idxmax 
+- Sorting using sort_values
+- Custom reusable functions
+
+Operations:
+- Average marks per city
+- Topper per city
+- Lowest scorer per city
+- Sorted students list
+
